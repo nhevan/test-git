@@ -1,0 +1,6 @@
+line 1
+line 2 - edited from master
+line 3
+line 4
+line 5 - fix/line2
+line 6
